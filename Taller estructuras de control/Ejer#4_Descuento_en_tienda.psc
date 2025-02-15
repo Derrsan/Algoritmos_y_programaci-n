@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo Descuentos_Tienda
 	Escribir "ingrese el valor de la compra: "
 	Leer Compra
 	Descuento<-Compra*0.15
