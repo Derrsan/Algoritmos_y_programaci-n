@@ -3,6 +3,6 @@ Algoritmo Suelto_mas_Comision
 	Leer Salario
 	Comision_por_tres_ventas<-Salario*0.30
 	Sueldo_mas_comision<-Salario+Comision_por_tres_meses
-	Escribir "Su comision por las tres ventas es de:", Comision_por_tres_ventas, " COP"
+	Escribir "Su comision por las tres ventas es de:", Comision_por_tres_meses, " COP"
 	Escribir "Su Salario total es de:",Sueldo_mas_comision, " COP"
 FinAlgoritmo
